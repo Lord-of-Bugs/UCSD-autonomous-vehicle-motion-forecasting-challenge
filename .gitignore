@@ -1,4 +1,2 @@
-/test
-/train
-test_output.csv
-sample_submission.csv
+test/
+train/
